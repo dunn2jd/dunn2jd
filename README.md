@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the fundamentals of different scripting languages
 - 📫 How to reach me: dunn2jd@mail.uc.edu
 - 😄 Pronouns: Beep/Boop
-- ⚡ Fun fact: I DON'T LIKE FOOD AT ALL MWAHAHAHAHA
+- ⚡ Fun fact: I like to eat food.
 
 <!---
 dunn2jd/dunn2jd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
